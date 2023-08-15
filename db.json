@@ -2,18 +2,53 @@
   "posts": [
     {
       "id": 1,
-      "title": "Hello World",
-      "body": "This is the first post."
+      "title": "Introduction to React",
+      "body": "React is a JavaScript library for building user interfaces. It allows you to create reusable UI components and manage the state of your application efficiently."
     },
     {
       "id": 2,
-      "title": "Typescript Example",
-      "body": "A demonstration of generating data with TypeScript."
+      "title": "Getting Started with TypeScript",
+      "body": "TypeScript is a superset of JavaScript that adds static typing to the language. It helps catch errors early and provides better tooling for writing robust and maintainable code."
     },
     {
       "id": 3,
-      "title": "Mock Data",
-      "body": "Using TypeScript to create mock data."
+      "title": "Managing State in Redux",
+      "body": "Redux is a predictable state container for JavaScript applications. It helps you manage the state of your app in a centralized manner, making it easier to track changes and debug issues."
+    },
+    {
+      "id": 4,
+      "title": "Responsive Design Principles",
+      "body": "Responsive design is an approach to web development that ensures your application looks and functions well on a variety of devices and screen sizes. It involves using flexible layouts and media queries."
+    },
+    {
+      "id": 5,
+      "title": "Asynchronous Programming with Promises",
+      "body": "Promises are a way to handle asynchronous operations in JavaScript. They provide a cleaner syntax for working with asynchronous code and help avoid callback hell."
+    },
+    {
+      "id": 6,
+      "title": "Node.js and Express for Backend Development",
+      "body": "Node.js is a runtime environment that allows you to run JavaScript on the server. Express is a web framework for Node.js that simplifies building robust and scalable backend APIs."
+    },
+    {
+      "id": 7,
+      "title": "Authentication and Authorization Strategies",
+      "body": "Authentication is the process of verifying the identity of a user, while authorization determines what actions a user is allowed to perform. Implementing secure authentication and authorization is crucial for application security."
+    },
+    {
+      "id": 8,
+      "title": "Testing and Test-Driven Development (TDD)",
+      "body": "Testing is an essential part of software development. Test-Driven Development (TDD) is an approach where you write tests before writing the actual code, which leads to more reliable and maintainable software."
+    },
+    {
+      "id": 9,
+      "title": "RESTful API Design Best Practices",
+      "body": "REST (Representational State Transfer) is an architectural style for designing networked applications. Following RESTful API design best practices helps create APIs that are intuitive, scalable, and easy to use."
+    },
+    {
+      "id": 10,
+      "title": "Introduction to Design Patterns",
+      "body": "Design patterns are reusable solutions to common software design problems. They provide a structured approach to solving challenges in software architecture and design."
     }
   ]
 }
