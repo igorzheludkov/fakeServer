@@ -1,17 +1,19 @@
-[
-  {
-    "id": 1,
-    "title": "Hello World",
-    "body": "This is the first post."
-  },
-  {
-    "id": 2,
-    "title": "Typescript Example",
-    "body": "A demonstration of generating data with TypeScript."
-  },
-  {
-    "id": 3,
-    "title": "Mock Data",
-    "body": "Using TypeScript to create mock data."
-  }
-]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello World",
+      "body": "This is the first post."
+    },
+    {
+      "id": 2,
+      "title": "Typescript Example",
+      "body": "A demonstration of generating data with TypeScript."
+    },
+    {
+      "id": 3,
+      "title": "Mock Data",
+      "body": "Using TypeScript to create mock data."
+    }
+  ]
+}
